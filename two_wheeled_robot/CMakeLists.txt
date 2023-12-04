@@ -54,6 +54,7 @@ install(PROGRAMS
   scripts/navigate_to_charging_dock.py
   scripts/navigate_to_charging_dock_v2.py
   scripts/transforms/map_to_base_link_transform.py
+  scripts/order_handler.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
